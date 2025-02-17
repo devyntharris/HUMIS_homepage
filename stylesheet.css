@@ -112,10 +112,10 @@ div#container {
                     &:hover {
                         text-decoration: underline;
                     }
-                        span:after {
-                            content: "|";
-                            margin: 0 5px;
-                        }
+                    }
+                    span:after {
+                        content: "|";
+                        margin: 0 5px;
                     }
                 }
             }
