@@ -85,7 +85,7 @@ div#container {
                 padding: 10px;
 
                 h2 {
-                    color: red;
+                    color: darkolivegreen;
                     border-bottom: 2px dotted red;
                     text-transform: uppercase;
                     font-weight: normal;
@@ -98,26 +98,25 @@ div#container {
                         font-weight: bold;
                         font-size: 110%;
                     }
-                }
 
-                div.middle-nav {
-                    text-align: right;
+                    &.learn-more {
+                        text-align: right;
 
-                    a {
-                    color: black;
-                    text-decoration: none;
-                    text-transform: uppercase;
-                    margin: 0 5px;
+                        a {
+                            color: red;
+                            text-decoration: none;
+                            font-size: 18px;
 
-                    &:hover {
-                        text-decoration: underline;
-                    }
-                    }
-                    span:after {
-                        content: "|";
-                        margin: 0 5px;
+                            &:hover {
+                                text-decoration: underline;
+                            }
+                        }
                     }
                 }
+            }
+
+            div.clear-float {
+                clear: both;
             }
         }
     }
