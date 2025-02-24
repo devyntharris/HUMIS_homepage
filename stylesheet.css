@@ -36,7 +36,6 @@ div#container {
                 }
 
                 img {
-                    vertical-align: auto;
                     /*vertical-align: auto;*/
                 }
             }
@@ -65,9 +64,9 @@ div#container {
             min-height: 500px;
             position: relative;
 
-            nav {
+            nav.left-side {
                 float: left;
-                width: 30%;
+                width: 25%;
 
                 a {
                     border-bottom: 1px solid black;
