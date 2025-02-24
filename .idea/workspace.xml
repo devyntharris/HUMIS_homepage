@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30740bf6-77ad-4cee-a429-95237b1a10b0" name="Changes" comment="Copied from professor's github">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "devyntharris"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/devyntharris/HUMIS_homepage.git",
+    "accountId": "dc56af34-214e-4714-a0f7-a7a7635fa77c"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/stylesheet.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2sEO4sbamDojTAjb4H1pJiYfEYw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30740bf6-77ad-4cee-a429-95237b1a10b0" name="Changes" comment="" />
+      <created>1738017079214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738017079214</updated>
+      <workItem from="1738017080216" duration="6000" />
+      <workItem from="1738188745764" duration="82000" />
+      <workItem from="1738188831455" duration="49000" />
+      <workItem from="1738188882212" duration="2390000" />
+      <workItem from="1738191760790" duration="7000" />
+      <workItem from="1738195875359" duration="21000" />
+      <workItem from="1738196213647" duration="83000" />
+      <workItem from="1738196432819" duration="518000" />
+      <workItem from="1738196968799" duration="735000" />
+      <workItem from="1738198615724" duration="694000" />
+      <workItem from="1738200783908" duration="1000" />
+      <workItem from="1738201041895" duration="1185000" />
+      <workItem from="1738207517272" duration="42000" />
+      <workItem from="1738617123155" duration="6726000" />
+      <workItem from="1738789055771" duration="7490000" />
+      <workItem from="1738873569360" duration="2264000" />
+      <workItem from="1738967000133" duration="6839000" />
+      <workItem from="1739227533126" duration="162000" />
+      <workItem from="1739227697185" duration="120000" />
+      <workItem from="1739227828478" duration="1570000" />
+      <workItem from="1739291129853" duration="2133000" />
+      <workItem from="1739389444794" duration="17000" />
+      <workItem from="1739389516817" duration="446000" />
+      <workItem from="1739394557928" duration="4422000" />
+      <workItem from="1739399516651" duration="2315000" />
+      <workItem from="1739410310641" duration="3134000" />
+      <workItem from="1739824894322" duration="5463000" />
+      <workItem from="1739850487510" duration="73000" />
+      <workItem from="1739850813550" duration="32000" />
+      <workItem from="1739853878707" duration="3000" />
+      <workItem from="1739854064827" duration="51000" />
+      <workItem from="1739998653718" duration="5714000" />
+      <workItem from="1740338628041" duration="1442000" />
+      <workItem from="1740431350952" duration="2596000" />
+    </task>
+    <task id="LOCAL-00001" summary="added main copy stuff">
+      <option name="closed" value="true" />
+      <created>1739400970894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739400970895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added the nav link beneath the women with pottery photo, added an extra paragraph, and also cleared the float that was causing the design to break when the content in the right column grew too much.">
+      <option name="closed" value="true" />
+      <created>1739831193230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739831193230</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Copied from professor's github">
+      <option name="closed" value="true" />
+      <created>1740433509814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740433509814</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added main copy stuff" />
+    <MESSAGE value="added the nav link beneath the women with pottery photo, added an extra paragraph, and also cleared the float that was causing the design to break when the content in the right column grew too much." />
+    <MESSAGE value="Copied from professor's github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copied from professor's github" />
+  </component>
+</project>
