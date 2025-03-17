@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30740bf6-77ad-4cee-a429-95237b1a10b0" name="Changes" comment="Updated and enhanced my readme file">
+    <list default="true" id="30740bf6-77ad-4cee-a429-95237b1a10b0" name="Changes" comment="Fixed some issues from professor's GitHub">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
     </list>
@@ -26,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "devyntharris"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;devyntharris&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/devyntharris/HUMIS_homepage.git",
-    "accountId": "dc56af34-214e-4714-a0f7-a7a7635fa77c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/devyntharris/HUMIS_homepage.git&quot;,
+    &quot;accountId&quot;: &quot;dc56af34-214e-4714-a0f7-a7a7635fa77c&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/stylesheet.css" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -68,7 +67,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
       </set>
     </attachedChunks>
   </component>
@@ -113,7 +112,9 @@
       <workItem from="1739854064827" duration="51000" />
       <workItem from="1739998653718" duration="5714000" />
       <workItem from="1740338628041" duration="1442000" />
-      <workItem from="1740431350952" duration="3227000" />
+      <workItem from="1740431350952" duration="3918000" />
+      <workItem from="1740603960855" duration="526000" />
+      <workItem from="1742240999746" duration="5299000" />
     </task>
     <task id="LOCAL-00001" summary="added main copy stuff">
       <option name="closed" value="true" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740434170816</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed some issues from professor's GitHub">
+      <option name="closed" value="true" />
+      <created>1740434815299</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740434815299</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +178,7 @@
     <MESSAGE value="added the nav link beneath the women with pottery photo, added an extra paragraph, and also cleared the float that was causing the design to break when the content in the right column grew too much." />
     <MESSAGE value="Copied from professor's github" />
     <MESSAGE value="Updated and enhanced my readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated and enhanced my readme file" />
+    <MESSAGE value="Fixed some issues from professor's GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some issues from professor's GitHub" />
   </component>
 </project>
